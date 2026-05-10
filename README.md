@@ -93,15 +93,13 @@
 ## 🌟 **Projects (Microcontroller & Embedded)**
 
 ### 🔌 **Embedded System Projects**
-- 🏧 **ATM Interface System (C)**
-- 🎮 **Number Guessing Game (C)**
-- 📟 **16x2 LCD Animations**
-  - Walking Man
-  - Dinosaur Animation
-  - Custom CGRAM Characters
+- **1. RFID Based Attendance System | ESP8266, RC522, Google Sheets**
+- **2. Bluetooth-Based LED Control | LPC2129 (ARM7), UART**
+- **3. Home Automation | Arduino Uno, Blynk, Cloud Computing**
+- **3. Data Acquisition System | LPC2129,8051mcu**
+  
 - 🔁 **Serial Communication using UART**
 - ⚙️ **GPIO & Timer Based Applications**
-- ⚙️ **RFID Attendance Based System Using (ESP-32,Google sheet)**
 ---
 
 ## 🌎 **Let's Connect!**
