@@ -96,7 +96,7 @@
 - **1. RFID Based Attendance System | ESP8266, RC522, Google Sheets**
 - **2. Bluetooth-Based LED Control | LPC2129 (ARM7), UART**
 - **3. Home Automation | Arduino Uno, Blynk, Cloud Computing**
-- **3. Data Acquisition System | LPC2129,8051mcu**
+- **4. Data Acquisition System | LPC2129,8051mcu**
   
 - 🔁 **Serial Communication using UART**
 - ⚙️ **GPIO & Timer Based Applications**
